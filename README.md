@@ -13,7 +13,7 @@ This is a function that implements an echo-state-network reservoir computing par
 
 This is a function that implements an echo-state-network reservoir computing paradigm with next-step forecasting.
 
-<h2> main.m </m>
+<h2> main.m </h2>
 
 This is the main function that generates the result figures for the project.
 
