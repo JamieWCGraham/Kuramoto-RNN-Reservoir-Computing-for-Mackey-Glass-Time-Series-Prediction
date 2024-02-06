@@ -1,4 +1,4 @@
-# Neural_Networks_2023_Submission_Mackey_Glass_Time_Series_Prediction_Reservoir_Computing
+# Mackey_Glass_Time_Series_Prediction_Reservoir_Computing
 This is a MATLAB code that implements Mackey-Glass time series prediction using a reservoir computing echo-state-network paradigm.
 
 <h2> make_mg.m </h2>
